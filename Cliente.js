@@ -1,7 +1,4 @@
 export class Cliente {
-    _nome;
-    _cpf;
-
     set nome(nameValue) {
         this._nome = nameValue;
     }
